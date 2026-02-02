@@ -1,0 +1,12 @@
+{
+  "name": "driftops-docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "mintlify dev",
+    "install:mintlify": "npm i -g mintlify"
+  },
+  "devDependencies": {
+    "mintlify": "latest"
+  }
+}
