@@ -1,8 +1,8 @@
-# Mintlify Starter Kit
+# DriftOps Documentation
 
-Use the starter kit to get your docs deployed and ready to customize.
+Infrastructure drift detection and management documentation.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+This repository contains the documentation for DriftOps, including:
 
 - Guide pages
 - Navigation
@@ -10,7 +10,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+**[Get started with DriftOps](https://driftops.dev/quickstart)**
 
 ## Development
 
